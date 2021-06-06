@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akashtp
-- 👀 I’m interested in machine learning 
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Machine Learning and Artificial Intelligence
+- 🌱 I’m currently learning Machine Learning
 - 📫 Reach me at akashtp@pm.me
 
 <!---
