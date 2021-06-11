@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Akash
+- 👋 Hi there, I’m Akash
 - 👀 I’m interested in Machine Learning and Artificial Intelligence
 - 🌱 I’m currently learning Machine Learning
 - 📫 Reach me at akashtp@pm.me
